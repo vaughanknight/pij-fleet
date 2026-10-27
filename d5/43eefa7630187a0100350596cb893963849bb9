@@ -1,0 +1,41 @@
+docs/plans/179-telegram-media/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_98c03f1074f879 1-27
+docs/plans/179-telegram-media/original-ask.md
+  s_89773b8bcec2f5::t_98c03f1074f879 1-5
+docs/plans/179-telegram-media/assets/tasks/phase-1/tasks.dd.md
+  s_89773b8bcec2f5::t_a61087eaec84ca 1-3,5-18,20-29,31-35,46-50,52,56,58,62,64,68,70,74,76,80,82,86,88,92,94
+  s_89773b8bcec2f5::t_575ffebfe8af07 4,19,30,36-45,51,53-55,57,59-61,63,65-67,69,71-73,75,77-79,81,83-85,87,89-91,93,95-97
+docs/plans/179-telegram-media/assets/backpressure.dd.md
+  s_89773b8bcec2f5::t_575ffebfe8af07 1-33
+docs/plans/179-telegram-media/assets/tasks/phase-1/tasks.dd.json
+  s_89773b8bcec2f5::t_a61087eaec84ca 1-11,14-17,19-21,106-108,175,177
+  s_89773b8bcec2f5::t_98c03f1074f879 12-13,18,22-105,109-174,176
+docs/plans/179-telegram-media/assets/rulings.md
+  s_89773b8bcec2f5::t_98c03f1074f879 1-9
+docs/plans/179-telegram-media/assets/backpressure.dd.json
+  s_89773b8bcec2f5::t_98c03f1074f879 1-74
+docs/plans/179-telegram-media/plan.dd.md
+  s_89773b8bcec2f5::t_a61087eaec84ca 1-3,5-14,16,21-29,31-35,39-43,49-53,65-71
+  s_89773b8bcec2f5::t_575ffebfe8af07 4,15,17-20,30,36-38,44-48,54-64,72
+docs/plans/179-telegram-media/plan.dd.json
+  s_89773b8bcec2f5::t_a61087eaec84ca 1-11,17-20,22-24,30-32,40-42,99-105,107-111,113
+  s_89773b8bcec2f5::t_98c03f1074f879 12-16,21,25-29,33-39,43-98,106,112
+docs/plans/179-telegram-media/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_575ffebfe8af07 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "d543eefa7630187a0100350596cb893963849bb9",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
