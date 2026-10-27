@@ -1,0 +1,23 @@
+crates/sidecars/src/telegram_document_tests.rs
+  s_89773b8bcec2f5::t_b9e052dc7597b9 820-823,883
+crates/sidecars/src/telegram.rs
+  s_89773b8bcec2f5::t_85aedd19c49d64 564,599-601,626,628,688,695,1024-1031
+docs/how/pij-telegram.md
+  s_89773b8bcec2f5::t_3c7ec976f79b7c 82-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "90668c0af85e129d20ed01fad0a383d94f77363d",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
