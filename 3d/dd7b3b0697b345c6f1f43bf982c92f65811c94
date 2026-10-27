@@ -1,0 +1,27 @@
+docs/retros/pij-prime-spawn-storm-plan-180.md
+  s_89773b8bcec2f5::t_35b8133155b1d1 1-114
+docs/plans/180-spawn-storm/assets/rulings.md
+  s_89773b8bcec2f5::t_4ebd83cf0b3642 15
+docs/plans/180-spawn-storm/plan.dd.json
+  s_89773b8bcec2f5::t_a38ad602705067 36-37
+docs/plans/180-spawn-storm/plan.dd.md
+  s_89773b8bcec2f5::t_0d1f4104ea59b4 47
+docs/velocity.md
+  s_89773b8bcec2f5::t_87df1914bdffbf 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "3ddd7b3b0697b345c6f1f43bf982c92f65811c94",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
