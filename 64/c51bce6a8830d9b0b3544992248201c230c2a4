@@ -1,0 +1,29 @@
+docs/plans/180-spawn-storm/assets/evidence/scripts/follow.py
+  s_89773b8bcec2f5::t_e92087a651d162 1-41
+docs/plans/180-spawn-storm/assets/evidence/scripts/reconcile.py
+  s_89773b8bcec2f5::t_01431c05deb284 1-35
+docs/plans/180-spawn-storm/assets/evidence/scripts/spawnp_exp.py
+  s_89773b8bcec2f5::t_dde590bb2fd4ac 1-35
+docs/plans/180-spawn-storm/assets/evidence/window3-counter.txt
+  s_89773b8bcec2f5::t_a34845c4b78cc3 1-63
+docs/plans/180-spawn-storm/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_3af2876e793f74 144-151
+docs/plans/180-spawn-storm/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_4a80e6ca6cc273 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "64c51bce6a8830d9b0b3544992248201c230c2a4",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
