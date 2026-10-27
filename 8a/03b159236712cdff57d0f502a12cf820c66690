@@ -1,0 +1,62 @@
+crates/daemon/src/http/shim.rs
+  s_89773b8bcec2f5::t_33f767ab551c0c 567,569,574-578,580-584,586-591,600-601
+  s_89773b8bcec2f5::t_689cfa3944231b 579
+crates/cli/src/main.rs
+  s_89773b8bcec2f5::t_cd6e7f80e943c7 710,3340-3344
+  s_89773b8bcec2f5::t_f4db210b63d879 716-717,720,808-809
+  s_89773b8bcec2f5::t_f239039f739f2c 722-728,804-807,810-812,817-820
+  s_89773b8bcec2f5::t_bbf42f51c471d3 3317-3335,3347-3356,3358-3376
+crates/sidecars/src/telegram_inbound_tests.rs
+  s_89773b8bcec2f5::t_04c1d0643d3f5d 1-169,174-205
+  s_89773b8bcec2f5::t_cd6e7f80e943c7 170-173
+crates/cli/tests/sidecar_producer.rs
+  s_89773b8bcec2f5::t_947ea6fdbd774c 66-67,73-74,78-91,105-106,114-117
+crates/daemon/src/http/mod.rs
+  s_89773b8bcec2f5::t_cd6e7f80e943c7 3802-3810
+  s_89773b8bcec2f5::t_3d1ccfad9f8390 3765,3767,3773-3781,3788-3789,3791-3794,3801,3811-3845,3847-3852
+docs/how/pij-rs-api.md
+  s_89773b8bcec2f5::t_fce6c3d52e3fb4 956
+docs/how/pij-telegram.md
+  s_89773b8bcec2f5::t_5faecdee92f7dc 31,33-39,41-63,65-82,84,86-94,96-112
+skills/pij/references/routes/peer.md
+  s_89773b8bcec2f5::t_fce6c3d52e3fb4 79
+crates/sidecars/src/telegram_document.rs
+  s_89773b8bcec2f5::t_0ccd540a76ec48 1,4-8,20,22,24-27,31-51,62-85,92-94,97-99,107,120-122,135-144,146-149,153-159,164-171,173-174,178,217-218,220-236,251,262-264,266,278,283-287,289,291-292,298,314,396,400-402,404,421
+  s_93b93dcb0a2426::t_da1ff165670119 52-61,183-216,219
+crates/sidecars/src/telegram_document_tests.rs
+  s_89773b8bcec2f5::t_e81180723a5c9e 248-249,251-253,255-258,261,263,272,276-298,308,325-328,338,340,343,357,381-384,391,402-422
+  s_89773b8bcec2f5::t_2963013050e5b4 8,22-24,32-39,42,44,50-66,81,83,100,211
+  s_89773b8bcec2f5::t_05150f18f9c837 392-395,591-687,693-696,702-713,720-742,747-763,769-779,787-790,796-834,843-853,858-859,864-908,914-965,970-1034
+  s_89773b8bcec2f5::t_cd6e7f80e943c7 385-390,396,688-692,697-701,714-719,743-746,764-768,780-786,791-795,835-842,854-857,860-863,909-913,966-969
+crates/sidecars/src/telegram.rs
+  s_89773b8bcec2f5::t_fe47c9886bd80f 38-39,471-472,477-480,496-514,521,530,544,559,564-599,604-616,619-622,625-627,645-660,677-716
+  s_89773b8bcec2f5::t_407f2e5648d26e 804-810,849-869,1037-1104
+  s_89773b8bcec2f5::t_3a8bfa0b855dfc 21-22
+  s_89773b8bcec2f5::t_f4db210b63d879 839
+  s_89773b8bcec2f5::t_947ea6fdbd774c 1138-1140
+  s_89773b8bcec2f5::t_6382ebf82505c3 1137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "8a03b159236712cdff57d0f502a12cf820c66690",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    },
+    "s_93b93dcb0a2426": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "1a37d840-9a10-42aa-869d-931bf3a84922",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
