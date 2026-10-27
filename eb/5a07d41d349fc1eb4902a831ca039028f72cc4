@@ -1,0 +1,23 @@
+docs/plans/179-telegram-media/assets/evidence/deploy-canary.txt
+  s_89773b8bcec2f5::t_9acae7383bce2b 1-41
+docs/plans/179-telegram-media/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_9acae7383bce2b 32-33
+docs/plans/179-telegram-media/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_9acae7383bce2b 121-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "eb5a07d41d349fc1eb4902a831ca039028f72cc4",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
