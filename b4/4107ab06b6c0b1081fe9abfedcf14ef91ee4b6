@@ -1,0 +1,20 @@
+docs/retros/pij-prime-spawn-storm-plan-180.md
+  s_89773b8bcec2f5::t_195358a6346ee0 41-44
+  s_89773b8bcec2f5::t_03e0a3f59fcca2 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "b44107ab06b6c0b1081fe9abfedcf14ef91ee4b6",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
