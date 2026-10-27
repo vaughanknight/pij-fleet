@@ -1,0 +1,49 @@
+crates/sidecars/src/telegram.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 13,17-23,26-31,318-324,329-334,464-642,651,653-654,665,910-914
+crates/cli/tests/sidecar_producer.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 52-102
+crates/testkit/arch-allowlist.toml
+  s_89773b8bcec2f5::t_5dcedf40247bd3 117-118
+crates/testkit/fixtures/arch/drifted-metadata.json
+  s_89773b8bcec2f5::t_5dcedf40247bd3 204-206
+docs/how/pij-rs-api.md
+  s_89773b8bcec2f5::t_5dcedf40247bd3 956
+skills/pij/references/routes/peer.md
+  s_89773b8bcec2f5::t_5dcedf40247bd3 79
+crates/daemon/src/http/shim.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 217-230,242,245-246,262-263,338-357,375-392,428,473-527,531-598,641-643
+crates/daemon/src/lib.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 163-164,566-571
+crates/daemon/tests/shim_http.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 71-72,418,1067-1166
+crates/daemon/src/http/mod.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 3706-3709,3730-3739,3764-3812,3814
+crates/sidecars/Cargo.toml
+  s_89773b8bcec2f5::t_5dcedf40247bd3 16
+docs/how/pij-telegram.md
+  s_89773b8bcec2f5::t_5dcedf40247bd3 30-62
+crates/testkit/fixtures/arch/clean-metadata.json
+  s_89773b8bcec2f5::t_5dcedf40247bd3 196-198
+crates/sidecars/src/telegram_document.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 1-345
+crates/sidecars/src/telegram_document_tests.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 1-499
+crates/cli/src/main.rs
+  s_89773b8bcec2f5::t_5dcedf40247bd3 716,719,721-727,796-797,801-805,809-816,2020-2028,3311-3365
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "7800d1104ee481dfe1faa8ffe0d7ee36d9e78edc",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
