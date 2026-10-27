@@ -1,0 +1,37 @@
+docs/plans/179-telegram-media/plan.dd.json
+  s_89773b8bcec2f5::t_2d29668b6b93b8 47-49,54-56,61-63,68-70,75-77,82-84,89-91,96-98,104-105
+  s_89773b8bcec2f5::t_c5fd1e1aac5513 12
+docs/plans/179-telegram-media/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_2d29668b6b93b8 93-101
+docs/plans/179-telegram-media/assets/tasks/phase-1/tasks.dd.md
+  s_89773b8bcec2f5::t_2d29668b6b93b8 38-44,53-55,59-61,65-67,71-73,77-79,83-85,89-91
+docs/retros/pij-prime-telegram-media-plan-179.md
+  s_89773b8bcec2f5::t_532e462d0184b2 1-49
+docs/plans/179-telegram-media/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_2d29668b6b93b8 29
+docs/plans/179-telegram-media/plan.dd.md
+  s_89773b8bcec2f5::t_c5fd1e1aac5513 15
+  s_89773b8bcec2f5::t_2d29668b6b93b8 56-64
+docs/plans/179-telegram-media/assets/backpressure.dd.md
+  s_89773b8bcec2f5::t_2d29668b6b93b8 23-25
+docs/plans/179-telegram-media/assets/backpressure.dd.json
+  s_89773b8bcec2f5::t_2d29668b6b93b8 24-26,35-37,46-48
+docs/plans/179-telegram-media/assets/tasks/phase-1/tasks.dd.json
+  s_89773b8bcec2f5::t_2d29668b6b93b8 27,31-32,38,42-43,49,53-54,60,66-67,73,77-78,84,88-89,95,99-100,121-123,130-132,139-141,148-150,157-159,166-168,175-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "8dbec340abd9815499837605a42e65a6e8d25424",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
