@@ -1,0 +1,75 @@
+crates/testkit/tests/spawn_sites.rs
+  s_89773b8bcec2f5::t_6face05fc04078 1-152
+  s_89773b8bcec2f5::t_fd85d1c9be252f 153-175
+crates/core/src/spawns.rs
+  s_89773b8bcec2f5::t_d9827404540753 1-32,42-44,46,54-64,67-82,84-97
+  s_89773b8bcec2f5::t_f1831836e06a2c 65-66,83
+  s_89773b8bcec2f5::t_31799551679e8d 33-41,45,47-53
+crates/core/src/lib.rs
+  s_89773b8bcec2f5::t_18f9e864d36e69 36
+crates/daemon/tests/first_light.rs
+  s_89773b8bcec2f5::t_4ee62581138169 65-115
+  s_89773b8bcec2f5::t_df994fc07394d8 116-118
+crates/daemon/src/background.rs
+  s_89773b8bcec2f5::t_4eeb9fa9080268 388,616,1509
+crates/daemon/src/http/governance.rs
+  s_89773b8bcec2f5::t_b728d97bab4ce8 1405
+crates/daemon/src/http/identity.rs
+  s_89773b8bcec2f5::t_1f75647536340c 537,568
+crates/daemon/src/http/mod.rs
+  s_89773b8bcec2f5::t_164094706752d1 715-716,738
+crates/daemon/src/orchestration/repo.rs
+  s_89773b8bcec2f5::t_c02e12448151ed 109
+crates/daemon/src/pa_watchdog.rs
+  s_89773b8bcec2f5::t_5018ab1e8795cc 988
+crates/daemon/src/registration.rs
+  s_89773b8bcec2f5::t_a0a9e7ba0361dc 1647
+crates/harnesses/src/models.rs
+  s_89773b8bcec2f5::t_55669a6b28213c 324
+crates/harnesses/src/proc.rs
+  s_89773b8bcec2f5::t_9817add5db0708 93,151
+crates/harnesses/src/usage_limit.rs
+  s_89773b8bcec2f5::t_8f59a4688424f5 148
+crates/sidecars/src/background.rs
+  s_89773b8bcec2f5::t_eca31414713d99 223,469,553
+crates/sidecars/src/chore.rs
+  s_89773b8bcec2f5::t_6be8b04a3462ca 277
+crates/tmux/src/control.rs
+  s_89773b8bcec2f5::t_9fb15e3fb12437 254,296
+crates/tmux/src/lib.rs
+  s_89773b8bcec2f5::t_2a25a8cee3b9e7 231,241,475,1279,1291
+crates/transport/src/uds.rs
+  s_89773b8bcec2f5::t_df395f5279c9e9 200
+docs/how/macos-defender.md
+  s_89773b8bcec2f5::t_d3ad62fb73d9d5 43-50
+docs/how/pij-rs-api.md
+  s_89773b8bcec2f5::t_2db91b1c6a901c 49-52
+docs/plans/180-spawn-storm/assets/evidence/mutation-spawn-counter.txt
+  s_89773b8bcec2f5::t_c68aadae1b6afe 1-14
+docs/plans/180-spawn-storm/assets/evidence/spawn-counter-green.txt
+  s_89773b8bcec2f5::t_8cd53495b22b15 1-19
+docs/plans/180-spawn-storm/assets/evidence/spawn-counter-red.txt
+  s_89773b8bcec2f5::t_a3b7fbd39bb0d2 1-39
+docs/plans/180-spawn-storm/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_de02a56e5e9533 90,99,128-143
+docs/plans/180-spawn-storm/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_ced3285111210e 35-36
+docs/plans/180-spawn-storm/assets/rulings.md
+  s_89773b8bcec2f5::t_6d4422c138bf4b 11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "02edbd9a2d283012a8782c81ddd8adcf38cf67ca",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+crates/tmux/src/control.rs
+  s_89773b8bcec2f5::t_a2c4c11708d40d 462-463,465-469
+docs/plans/180-spawn-storm/assets/evidence/mutation-phase1.txt
+  s_89773b8bcec2f5::t_93cd0b5abb3929 67-81
+docs/plans/180-spawn-storm/assets/rulings.md
+  s_89773b8bcec2f5::t_6ae6bc7ede34ba 1,5-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "c720f7cec88eadf4572b724af01119f80fc10499",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}

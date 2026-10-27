@@ -1,0 +1,27 @@
+docs/plans/180-spawn-storm/assets/evidence/deploy-and-measurements.txt
+  s_89773b8bcec2f5::t_736c8316819313 1-45
+docs/plans/180-spawn-storm/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_d6d9cb09034e90 104-127
+docs/plans/180-spawn-storm/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_df7d76853af1c3 32-34
+docs/plans/180-spawn-storm/plan.dd.json
+  s_89773b8bcec2f5::t_d6b192332eec8d 81-82,87-89,94-96
+docs/plans/180-spawn-storm/plan.dd.md
+  s_89773b8bcec2f5::t_153746ccc25558 59-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "274038ee0a0e44199c45ce1e151047e718c0e228",
+  "prompts": {},
+  "sessions": {
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
