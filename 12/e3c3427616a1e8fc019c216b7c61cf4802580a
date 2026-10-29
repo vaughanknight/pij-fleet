@@ -1,0 +1,25 @@
+skills/pij/references/prime/orchestrator.md
+  s_7384851dd2aaaa::t_3f80080d4899a2 6-10,45,48,50
+skills/pij/references/prime/pa.md
+  s_7384851dd2aaaa::t_cf43828c9006c3 60-62
+skills/pij/references/prime/rituals/kickoff.md
+  s_7384851dd2aaaa::t_6549b43eb14b70 23-27,35-36
+skills/pij/references/prime/templates/stream-brief.md
+  s_7384851dd2aaaa::t_548f4fda86a3f5 4-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "12e3c3427616a1e8fc019c216b7c61cf4802580a",
+  "prompts": {},
+  "sessions": {
+    "s_7384851dd2aaaa": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "799a6c57-bcfb-471d-b2cb-b283ccccb2db",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
