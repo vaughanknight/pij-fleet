@@ -1,0 +1,80 @@
+crates/daemon/src/pa_watchdog_tests.rs
+  s_89773b8bcec2f5::t_244709e206cf99 2173
+  s_89773b8bcec2f5::t_652cf1966d20bd 2072-2073,2087-2088,2092-2093,2151-2171,2174,2188-2189,2195-2196,2245-2246,2250-2251,2279-2280,2392-2393
+  s_7f97ea35fa95b6::t_f5e333dd4859e4 1234-1235,1446-1447,2053-2071,2074-2086,2089-2091,2094-2150,2172,2175-2187,2190-2194,2197-2244,2247-2249,2252-2278,2281-2391,2394-2416
+docs/how/pij-rs-api.md
+  s_89773b8bcec2f5::t_0154b999776a2e 949-950
+  s_7f97ea35fa95b6::t_9d2ca5f0958a5e 698,932,935-937
+crates/cli/src/main.rs
+  s_89773b8bcec2f5::t_a56fbb5f5aeeef 494
+crates/core/src/watchdog.rs
+  s_89773b8bcec2f5::t_ca6e48af43c58b 401-442,459,468,473-478,484-491,493,518-519,521,525-610
+crates/daemon/src/http/watchdog.rs
+  s_89773b8bcec2f5::t_265e4bfbfbd302 1-2,24-25,41,108,120-127,141,217-238,241,286-290,297-298,307-308,314-320,323-325,448-464,468-492
+crates/daemon/src/pa_watchdog.rs
+  s_89773b8bcec2f5::t_81d69745998851 75-76,773-779,808-839,842-848,858-877,884,896-897
+crates/store/migrations/0031_watchdog_start.sql
+  s_89773b8bcec2f5::t_d3e42775dbe5b9 1-9
+crates/store/src/migrate.rs
+  s_89773b8bcec2f5::t_bd799c263eaa4b 34
+crates/store/src/orchestration.rs
+  s_89773b8bcec2f5::t_8b00320581609f 338-339,347-348,351-355,357-358,360-361,367-368,375-396,682-691
+crates/store/tests/store_integration.rs
+  s_89773b8bcec2f5::t_d0fe3d7d255785 1267-1268,1299-1410
+docs/how/pa-watchdog.md
+  s_89773b8bcec2f5::t_558de6f34601f5 94,105
+docs/plans/184-watchdog-start/assets/backpressure.dd.json
+  s_89773b8bcec2f5::t_c868164a4b0258 1-90
+docs/plans/184-watchdog-start/assets/backpressure.dd.md
+  s_89773b8bcec2f5::t_4f7a6670cf1fcc 1-34
+docs/plans/184-watchdog-start/assets/evidence/green.txt
+  s_89773b8bcec2f5::t_c5e047d4d1d020 1-92
+docs/plans/184-watchdog-start/assets/evidence/mutation.txt
+  s_89773b8bcec2f5::t_55a9f0c5f140a5 1-27
+docs/plans/184-watchdog-start/assets/evidence/red.txt
+  s_89773b8bcec2f5::t_438f428657fb77 1-21
+docs/plans/184-watchdog-start/assets/execution-log.dd.json
+  s_89773b8bcec2f5::t_201cc1bf5d99bb 1-47
+docs/plans/184-watchdog-start/assets/execution-log.dd.md
+  s_89773b8bcec2f5::t_f2b59be9651925 1-25
+docs/plans/184-watchdog-start/assets/rulings.md
+  s_89773b8bcec2f5::t_1447575a50c645 1-8
+docs/plans/184-watchdog-start/assets/tasks/phase-1/tasks.dd.json
+  s_89773b8bcec2f5::t_e29dcb04c0621f 1-232
+docs/plans/184-watchdog-start/assets/tasks/phase-1/tasks.dd.md
+  s_89773b8bcec2f5::t_e72b0b57f6aa9b 1-207
+docs/plans/184-watchdog-start/original-ask.md
+  s_89773b8bcec2f5::t_974b5bb562730d 1-40
+docs/plans/184-watchdog-start/plan.dd.json
+  s_89773b8bcec2f5::t_897b71a9c3944d 1-164
+docs/plans/184-watchdog-start/plan.dd.md
+  s_89773b8bcec2f5::t_b3591221635f64 1-173
+skills/pij/SKILL.md
+  s_89773b8bcec2f5::t_a103ed4fa0e667 50
+skills/pij/references/00-routing.md
+  s_89773b8bcec2f5::t_b5e6a52b3539d5 212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "c70b8dc75522026e5961712795aa9b98c08b7fbe",
+  "prompts": {},
+  "sessions": {
+    "s_7f97ea35fa95b6": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "01dd3f02-0916-4cc8-9527-11c6b12d4c08",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    },
+    "s_89773b8bcec2f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3b0ead37-f7d8-4a9d-bf33-7d4df27a27b2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vaughan Knight <vaughan@vaughanknight.com>"
+    }
+  }
+}
